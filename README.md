@@ -28,3 +28,18 @@ Modulo also has a few other non-Python dependencies:
 Please follow the iPython notebook available in this repository (`example.ipynb`).
 
 The code is well-documented using Python docstrings. Hence, you can use Python's `help()` feature on any class or method to know more about what it does.
+
+## Citing this work
+
+If you find Modulo useful for your research work, please cite us as follows:
+
+Dhruv Agarwal, Srinivasan Iyengar, et al. Modulo: Drive-by sensing at city-scale on the cheap. InProceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies 2020.
+
+```bash
+@inproceedings{agarwal2020modulo,
+  title={Modulo: Drive-by sensing at city-scale on the cheap},
+  author={Agarwal, Dhruv and Iyengar, Srinivasan and Swaminathan, Manohar and Sharma, Eash and Raj, Ashish and Hatwar, Aadithya},
+  booktitle={Proceedings of the 3rd ACM SIGCAS Conference on Computing and Sustainable Societies},
+  year={2020}
+}
+```
