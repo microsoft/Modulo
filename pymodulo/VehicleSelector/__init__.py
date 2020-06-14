@@ -1,0 +1,3 @@
+from pymodulo.VehicleSelector.GreedyVehicleSelector import GreedyVehicleSelector
+from pymodulo.VehicleSelector.MaxPointsVehicleSelector import MaxPointsVehicleSelector
+from pymodulo.VehicleSelector.RandomVehicleSelector import RandomVehicleSelector
