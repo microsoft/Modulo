@@ -11,7 +11,7 @@ bbox = bbox.map((val, i) => {
 });
 // bbox is now something like: [77.52021789550781, 12.91823730850926, 77.68020629882812, 13.02997975435598]
 
-let cellSide = parseInt(process.argv[6]);
+let cellSide = Number(process.argv[6]);
 let options = {units: 'kilometers'};
 
 // use turfjs to get the grid

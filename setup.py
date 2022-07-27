@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pymodulo",
-    version="0.0.9",
+    version="0.1.0",
     author="Dhruv Agarwal",
     author_email="dhruv.agarwal@alumni.ashoka.edu.in",
     description="Vehicle selection for drive-by sensing deployments to maximize coverage",
